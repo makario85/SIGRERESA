@@ -1,0 +1,4 @@
+C:\Users\proman\Source\Repos\WasteCollectionManagement\ClassLibrary2\obj\Debug\WasteCollectionManagement.Infraestrucure.csprojAssemblyReference.cache
+C:\Users\proman\Source\Repos\WasteCollectionManagement\ClassLibrary2\obj\Debug\WasteCollectionManagement.Migrations.Initial.resources
+C:\Users\proman\Source\Repos\WasteCollectionManagement\ClassLibrary2\obj\Debug\WasteCollectionManagement.Infraestrucure.csproj.GenerateResource.cache
+C:\Users\proman\Source\Repos\WasteCollectionManagement\ClassLibrary2\obj\Debug\WasteCollectionManagement.Infraestrucure.csproj.CoreCompileInputs.cache
