@@ -1,0 +1,8 @@
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement.Infraestrucure\bin\Debug\netstandard2.0\WasteCollectionManagement.Infraestrucure.deps.json
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement.Infraestrucure\bin\Debug\netstandard2.0\WasteCollectionManagement.Infraestrucure.dll
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement.Infraestrucure\obj\Debug\netstandard2.0\WasteCollectionManagement.Infraestrucure.csproj.CoreCompileInputs.cache
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement.Infraestrucure\obj\Debug\netstandard2.0\WasteCollectionManagement.Infraestrucure.AssemblyInfoInputs.cache
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement.Infraestrucure\obj\Debug\netstandard2.0\WasteCollectionManagement.Infraestrucure.AssemblyInfo.cs
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement.Infraestrucure\obj\Debug\netstandard2.0\WasteCollectionManagement.Infraestrucure.csprojAssemblyReference.cache
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement.Infraestrucure\obj\Debug\netstandard2.0\WasteCollectionManagement.Migrations.Initial.resources
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement.Infraestrucure\obj\Debug\netstandard2.0\WasteCollectionManagement.Infraestrucure.csproj.GenerateResource.cache
