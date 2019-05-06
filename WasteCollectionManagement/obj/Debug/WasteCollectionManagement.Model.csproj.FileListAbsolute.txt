@@ -1,0 +1,12 @@
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement\obj\Debug\WasteCollectionManagement.Model.csproj.CoreCompileInputs.cache
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement\bin\Debug\WasteCollectionManagement.dll.config
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement\bin\Debug\WasteCollectionManagement.dll
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement\bin\Debug\WasteCollectionManagement.pdb
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement\bin\Debug\EntityFramework.dll
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement\bin\Debug\EntityFramework.xml
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement\obj\Debug\WasteCollectionManagement.Model.csproj.CopyComplete
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement\obj\Debug\WasteCollectionManagement.dll
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement\obj\Debug\WasteCollectionManagement.pdb
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement\obj\Debug\WasteCollectionManagement.Model.csprojAssemblyReference.cache
