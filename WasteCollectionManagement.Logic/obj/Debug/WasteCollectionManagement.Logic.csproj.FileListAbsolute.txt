@@ -1,0 +1,15 @@
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement.Logic\obj\Debug\WasteCollectionManagement.Logic.csprojAssemblyReference.cache
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement.Logic\obj\Debug\WasteCollectionManagement.Logic.csproj.CoreCompileInputs.cache
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement.Logic\bin\Debug\WasteCollectionManagement.Logic.dll.config
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement.Logic\bin\Debug\WasteCollectionManagement.Logic.dll
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement.Logic\bin\Debug\WasteCollectionManagement.Logic.pdb
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement.Logic\bin\Debug\EntityFramework.dll
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement.Logic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement.Logic\bin\Debug\WasteCollectionManagement.dll
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement.Logic\bin\Debug\WasteCollectionManagement.pdb
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement.Logic\bin\Debug\WasteCollectionManagement.dll.config
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement.Logic\bin\Debug\EntityFramework.xml
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement.Logic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement.Logic\obj\Debug\WasteCollectionManagement.Logic.csproj.CopyComplete
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement.Logic\obj\Debug\WasteCollectionManagement.Logic.dll
+C:\Users\proman\Source\Repos\WasteCollectionManagement\WasteCollectionManagement.Logic\obj\Debug\WasteCollectionManagement.Logic.pdb
